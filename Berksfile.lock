@@ -1,0 +1,9 @@
+DEPENDENCIES
+  apache-tomcat
+    path: .
+    metadata: true
+
+GRAPH
+  apache-tomcat (0.1.0)
+    windows (>= 0.0.0)
+  windows (6.0.0)
